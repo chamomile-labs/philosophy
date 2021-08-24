@@ -1,11 +1,10 @@
 # philosophy
 
-https://marxists.org
-https://libcom.org/library
-https://theanarchistlibrary.org/library/
-http://worrydream.com/refs/
-https://monoskop.org/Monoskop
-
+- https://marxists.org
+- https://libcom.org/library
+- https://theanarchistlibrary.org/library/
+- http://worrydream.com/refs/
+- https://monoskop.org/Monoskop
 
 ---
 
