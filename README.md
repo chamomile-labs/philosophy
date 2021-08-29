@@ -59,3 +59,5 @@ To really grok ATP I had to read:
 - [Metaphysics](http://danielwharris.com/teaching/360/)
 - [Alan Turing: Computing Machinery and Intelligence](http://danielwharris.com/teaching/268online/weeks/12/Turing.pdf)
 - [John Searle: Minds, Brains, and Programs](http://danielwharris.com/teaching/268online/weeks/12/SearleMBP.pdf)
+- tiqqun
+- cybernetics
