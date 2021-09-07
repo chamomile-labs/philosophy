@@ -5,6 +5,10 @@
 - https://theanarchistlibrary.org/library/
 - http://worrydream.com/refs/
 - https://monoskop.org/Monoskop
+- https://criticallegalthinking.com/keyconcepts/
+
+- http://www.ccru.net/index.htm
+- http://k-punk.abstractdynamics.org/
 
 ---
 
